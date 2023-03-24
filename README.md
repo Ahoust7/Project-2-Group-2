@@ -21,7 +21,7 @@ Beautiful Soup was used to pull details -- show title, year, rating, votes per s
   (b) ![Screenshot 2023-03-23 213924](https://user-images.githubusercontent.com/118394753/227402665-ea4bcdd1-19cc-4325-8ce0-bb428ce90f90.png)
   (c) ![Screenshot 2023-03-23 213948](https://user-images.githubusercontent.com/118394753/227402863-fc1306a2-d21a-4771-b532-007e57633563.png)
 
-  After the rest of the data was cleaned, the DataFrame was converted to a CSV file. ![Screenshot 2023-03-23 214702](https://user-images.githubusercontent.com/118394753/227403554-f05939c1-7543-4114-9e20-92aca9e7f068.png)
+  After the rest of the data was cleaned, the DataFrame was converted to a ["CSV file"](imdb_top_1000_TV_Final.csv). ![Screenshot 2023-03-23 214702](https://user-images.githubusercontent.com/118394753/227403554-f05939c1-7543-4114-9e20-92aca9e7f068.png)
 
-  For our queries in MongoDB, the CSV files were then converted into a ["JSON file"](imdb_top_1000_TV_Final.csv).
+  For our queries in MongoDB, the CSV files were then converted into a ["JSON file"](imdb_top_1000_TV_final.json).
     ![Screenshot 2023-03-23 214656](https://user-images.githubusercontent.com/118394753/227403528-e836edc1-710d-43e2-8907-baaa0b1ce7de.png)
