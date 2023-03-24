@@ -11,4 +11,4 @@ Pymongo via Python Library was used to create queries on our findings.
 Data Scraped: ["Top 1000 Movies"](https://www.imdb.com/search/title/?groups=top_1000&sort=user_rating,desc&count=100&start=108&ref_=adv_nxt) and ["Top 1000 TV Shows"](https://www.imdb.com/search/title/?count=100&languages=en&num_votes=1000,&sort=num_votes,desc&title_type=tv_series)
 
   ### Process 
-Beautiful Soup was used to pull details -- show title, year, rating, votes per show, stars from each show, and tv show genres from ["Top 1000 Movies"](https://www.imdb.com/search/title/?groups=top_1000&sort=user_rating,desc&count=100&start=108&ref_=adv_nxt) 
+Beautiful Soup was used to pull details -- show title, year, rating, votes per show, stars from each show, and tv show genres -- from ["Top 1000 Movies"](https://www.imdb.com/search/title/?groups=top_1000&sort=user_rating,desc&count=100&start=108&ref_=adv_nxt) 
