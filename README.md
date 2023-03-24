@@ -36,7 +36,7 @@ Beautiful Soup was used and a loop was used to pull details -- show title, year,
  #### Movies
 The same process was done to [clean up](imdb_top_1000_movies_final.ipynb) and spit out the data from a CSV file into a JSON for ["Top 1000 Movies"](https://www.imdb.com/search/title/?groups=top_1000&sort=user_rating,desc&count=100&start=108&ref_=adv_nxt) 
 
-In addition to the same clean up and reformatting process, a drop of the 'Gross' column was made.
+In addition to the same clean up and reformatting process, a drop of the 'Gross' column was made. 
 ![Screenshot 2023-03-23 225710](https://user-images.githubusercontent.com/118394753/227412852-e2b35767-6d5b-44bd-bdb4-06eb24795929.png)
 
 ### Data Analysis
