@@ -11,7 +11,7 @@ Data was uploaded to Mongo database. Pymongo via Python Library was used to crea
 
   ### Our Process 
   #### TV Shows
-Beautiful Soup was used to pull details -- show title, year, rating, votes per show, stars from each show, and tv show genres -- from ["Top 1000 Movies"](https://www.imdb.com/search/title/?groups=top_1000&sort=user_rating,desc&count=100&start=108&ref_=adv_nxt)
+Beautiful Soup was used and a loop was used to pull details -- show title, year, rating, votes per show, stars from each show, and tv show genres -- from ["Top 1000 Movies"](https://www.imdb.com/search/title/?groups=top_1000&sort=user_rating,desc&count=100&start=108&ref_=adv_nxt)
   Our code can be denoted here:
   ![Screenshot 2023-03-23 211756](https://user-images.githubusercontent.com/118394753/227401596-50b3fd4a-4f28-4702-8057-d0769cf00964.png)
   
