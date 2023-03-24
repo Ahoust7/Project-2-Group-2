@@ -23,5 +23,9 @@ Beautiful Soup was used to pull details -- show title, year, rating, votes per s
 
   After the rest of the data was cleaned, the DataFrame was converted to a ["CSV file"](imdb_top_1000_TV_Final.csv). ![Screenshot 2023-03-23 214702](https://user-images.githubusercontent.com/118394753/227403554-f05939c1-7543-4114-9e20-92aca9e7f068.png)
 
-  For our queries in MongoDB, the CSV files were then converted into a ["JSON file"](imdb_top_1000_TV_final.json).
+  For our queries in MongoDB, the CSV file was then brought back into Python library to spit out a ["JSON file"](imdb_top_1000_TV_final.json).
     ![Screenshot 2023-03-23 214656](https://user-images.githubusercontent.com/118394753/227403528-e836edc1-710d-43e2-8907-baaa0b1ce7de.png)
+    
+ #### Movies
+The same process was done to clean up the data for ["Top 1000 Movies"](https://www.imdb.com/search/title/?groups=top_1000&sort=user_rating,desc&count=100&start=108&ref_=adv_nxt) where movie title, year, rating, directors, stars, votes, and gross were all pulled
+
