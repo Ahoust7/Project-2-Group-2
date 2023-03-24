@@ -29,3 +29,5 @@ Beautiful Soup was used to pull details -- show title, year, rating, votes per s
  #### Movies
 The same process was done to [clean up](imdb_top_1000_movies_final.ipynb) the data for ["Top 1000 Movies"](https://www.imdb.com/search/title/?groups=top_1000&sort=user_rating,desc&count=100&start=108&ref_=adv_nxt) where movie title, year, rating, directors, stars, votes, and gross were all pulled
 
+### Data Analysis
+Data was converted from CSV to JSON to be consistent with our use of MongoDB for further data analysis. Queries were made to display our analyses.
