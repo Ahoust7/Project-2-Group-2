@@ -39,5 +39,5 @@ The same process was done to [clean up](imdb_top_1000_movies_final.ipynb) and sp
 In addition to the same clean up and reformatting process, a drop of the 'Gross' column was made. 
 ![Screenshot 2023-03-23 225710](https://user-images.githubusercontent.com/118394753/227412852-e2b35767-6d5b-44bd-bdb4-06eb24795929.png)
 
-### Data Analysis
+### [Data Analysis](imdb_MongoDB.ipynb)
 Data was converted from CSV to JSON to be consistent with our use of MongoDB for further data analysis. Queries were made to display our analyses.
