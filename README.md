@@ -22,6 +22,7 @@ Beautiful Soup was used to pull details -- show title, year, rating, votes per s
   (c) ![Screenshot 2023-03-23 213948](https://user-images.githubusercontent.com/118394753/227402863-fc1306a2-d21a-4771-b532-007e57633563.png)
 
   Data was re-formatted where some of the data types were changed to fit our interest - differentiating between start and end dates of how long tv series ran
+  
   (a) ![Screenshot 2023-03-23 224232](https://user-images.githubusercontent.com/118394753/227411187-1dbbcea2-0750-47d8-9281-11af34750b14.png)
   (b) ![Screenshot 2023-03-23 224248](https://user-images.githubusercontent.com/118394753/227411210-27e94492-bdee-49a4-ba84-39bd0e1bddb8.png)
 
